@@ -1,0 +1,64 @@
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV_client\PCV_client\bin\Debug\PCV_client.dll
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV_client\PCV_client\bin\Debug\PCV_client.pdb
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV_client\PCV_client\bin\Debug\PCV_client.PCV_client.apk
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV_client\PCV_client\bin\Debug\PCV_client.PCV_client-Signed.apk
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV_client\PCV_client\obj\Debug\PCV_client.csproj.CoreCompileInputs.cache
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV_client\PCV_client\obj\Debug\PCV_client.dll
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV_client\PCV_client\obj\Debug\PCV_client.pdb
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV_client\PCV_client\obj\Debug\android\bin\PCV_client.PCV_client.apk
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV_client\PCV_client\obj\Debug\res\layout\main.xml
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV_client\PCV_client\obj\Debug\res\values\strings.xml
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV_client\PCV_client\obj\Debug\res\drawable\error.jpg
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV_client\PCV_client\obj\Debug\res\drawable\noconnection.png
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV_client\PCV_client\obj\Debug\res\drawable\pcviewer.png
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV_client\PCV_client\obj\Debug\res\drawable\readytoconnect.png
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV_client\PCV_client\obj\Debug\res\values\theme.xml
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV_client\PCV_client\obj\Debug\R.cs.flag
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV_client\PCV_client\obj\Debug\uploadflags.txt
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV_client\PCV_client\bin\Debug\PCV_client.dll.mdb
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV_client\PCV_client\obj\Debug\android\assets\PCV_client.dll.mdb
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV_client\PCV_client\obj\Debug\res\layout\contentpage.xml
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV_client\PCV_client\obj\Debug\res\drawable\ok.jpg
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV_client\PCV_client\obj\Debug\PCV_client.csprojResolveAssemblyReference.cache
+C:\Users\ilyas\Desktop\PCV_client\PCV_client\bin\Debug\PCV_client.dll
+C:\Users\ilyas\Desktop\PCV_client\PCV_client\bin\Debug\PCV_client.pdb
+C:\Users\ilyas\Desktop\PCV_client\PCV_client\bin\Debug\PCV_client.PCV_client.apk
+C:\Users\ilyas\Desktop\PCV_client\PCV_client\bin\Debug\PCV_client.PCV_client-Signed.apk
+C:\Users\ilyas\Desktop\PCV_client\PCV_client\obj\Debug\PCV_client.csprojResolveAssemblyReference.cache
+C:\Users\ilyas\Desktop\PCV_client\PCV_client\obj\Debug\PCV_client.csproj.CoreCompileInputs.cache
+C:\Users\ilyas\Desktop\PCV_client\PCV_client\obj\Debug\PCV_client.dll
+C:\Users\ilyas\Desktop\PCV_client\PCV_client\obj\Debug\PCV_client.pdb
+C:\Users\ilyas\Desktop\PCV_client\PCV_client\obj\Debug\android\bin\PCV_client.PCV_client.apk
+C:\Users\ilyas\Desktop\PCV_client\PCV_client\obj\Debug\res\layout\contentpage.xml
+C:\Users\ilyas\Desktop\PCV_client\PCV_client\obj\Debug\res\layout\main.xml
+C:\Users\ilyas\Desktop\PCV_client\PCV_client\obj\Debug\res\values\strings.xml
+C:\Users\ilyas\Desktop\PCV_client\PCV_client\obj\Debug\res\drawable\ok.jpg
+C:\Users\ilyas\Desktop\PCV_client\PCV_client\obj\Debug\res\drawable\error.jpg
+C:\Users\ilyas\Desktop\PCV_client\PCV_client\obj\Debug\res\drawable\noconnection.png
+C:\Users\ilyas\Desktop\PCV_client\PCV_client\obj\Debug\res\drawable\pcviewer.png
+C:\Users\ilyas\Desktop\PCV_client\PCV_client\obj\Debug\res\drawable\readytoconnect.png
+C:\Users\ilyas\Desktop\PCV_client\PCV_client\obj\Debug\res\values\theme.xml
+C:\Users\ilyas\Desktop\PCV_client\PCV_client\obj\Debug\R.cs.flag
+C:\Users\ilyas\Desktop\PCV_client\PCV_client\obj\Debug\uploadflags.txt
+C:\Users\ilyas\Desktop\PCV_client\PCV_client\bin\Debug\PCV_client.dll.mdb
+C:\Users\ilyas\Desktop\PCV_client\PCV_client\obj\Debug\android\assets\PCV_client.dll.mdb
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\bin\Debug\PCV_client.dll
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\bin\Debug\PCV_client.pdb
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\bin\Debug\PCV_client.PCV_client.apk
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\bin\Debug\PCV_client.PCV_client-Signed.apk
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\obj\Debug\PCV_client.csproj.CoreCompileInputs.cache
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\obj\Debug\PCV_client.dll
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\obj\Debug\PCV_client.pdb
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\obj\Debug\android\bin\PCV_client.PCV_client.apk
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\obj\Debug\res\layout\contentpage.xml
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\obj\Debug\res\layout\main.xml
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\obj\Debug\res\values\strings.xml
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\obj\Debug\res\drawable\noconnection.png
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\obj\Debug\res\drawable\pcviewer.png
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\obj\Debug\res\drawable\readytoconnect.png
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\obj\Debug\res\values\theme.xml
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\obj\Debug\R.cs.flag
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\obj\Debug\uploadflags.txt
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\obj\Debug\res\drawable\icon.png
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\obj\Debug\res\drawable\error.png
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\obj\Debug\res\drawable\cursor.png

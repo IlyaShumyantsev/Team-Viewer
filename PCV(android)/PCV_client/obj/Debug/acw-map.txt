@@ -1,0 +1,8 @@
+PCV_client.ContentPage, PCV_client;md5e43e6dc808d709be88228b2011978c59.ContentPage
+PCV_client.ContentPage, PCV_client, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e43e6dc808d709be88228b2011978c59.ContentPage
+PCV_client.ContentPage;md5e43e6dc808d709be88228b2011978c59.ContentPage
+pcv_client.ContentPage;md5e43e6dc808d709be88228b2011978c59.ContentPage
+PCV_client.MainActivity, PCV_client;md5e43e6dc808d709be88228b2011978c59.MainActivity
+PCV_client.MainActivity, PCV_client, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e43e6dc808d709be88228b2011978c59.MainActivity
+PCV_client.MainActivity;md5e43e6dc808d709be88228b2011978c59.MainActivity
+pcv_client.MainActivity;md5e43e6dc808d709be88228b2011978c59.MainActivity

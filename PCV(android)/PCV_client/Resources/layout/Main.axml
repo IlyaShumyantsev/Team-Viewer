@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/theme_black_notitlebar_fullscreen_background"
+    android:minWidth="25px"
+    android:minHeight="25px">
+    <ScrollView
+        android:id="@+id/myview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_gravity="center"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:id="@+id/linearLayout1"
+            android:isScrollContainer="true"
+            >
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:layout_gravity="center"
+                android:paddingBottom="0dp"
+                android:paddingTop="10dp"
+                android:id="@+id/linearLayout2"
+                android:layout_marginTop="80dp"
+                android:layout_marginBottom="80dp"
+                >
+                <ImageView
+                    android:src="@drawable/pcviewer"
+                    android:layout_height="80dp"
+                    android:layout_width="match_parent"
+                    android:id="@+id/imageView1" />
+            </LinearLayout>
+            <TableLayout
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:layout_gravity="center"
+                android:stretchColumns="*"
+                android:id="@+id/tableLayout2">
+                <TableRow
+                    android:id="@+id/tableRow4">
+                    <EditText
+                        android:id="@+id/ipEdit"
+                        android:layout_height="wrap_content"
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:hint="IP address"
+                        android:gravity="center"
+                        android:textStyle="bold"
+                        android:textColor="#005dc5"
+                        android:textColorHint="#393a3a" />
+                </TableRow>
+                <TableRow
+                    android:id="@+id/tableRow5">
+                    <EditText
+                        android:inputType="number"
+                        android:id="@+id/portEdit"
+                        android:layout_height="wrap_content"
+                        android:layout_width="0dp"
+                        android:layout_weight="1"
+                        android:hint="Port"
+                        android:gravity="center"
+                        android:textStyle="bold"
+                        android:textColor="#005dc5"
+                        android:textColorHint="#393a3a" />
+                </TableRow>
+                <TableRow
+                    android:paddingBottom="40dp"
+                    android:paddingTop="20dp"
+                    android:id="@+id/tableRow6">
+                    <Button
+                        android:id="@+id/connectButton"
+                        android:layout_height="wrap_content"
+                        android:layout_width="match_parent"
+                        android:text="Connect"
+                        android:gravity="center"
+                        android:textStyle="bold"
+                        android:textColor="#393a3a" />
+                    <Button
+                        android:id="@+id/clearButton"
+                        android:layout_height="wrap_content"
+                        android:layout_width="match_parent"
+                        android:text="Clear"
+                        android:gravity="center"
+                        android:textStyle="bold"
+                        android:textColor="#393a3a" />
+                </TableRow>
+            </TableLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

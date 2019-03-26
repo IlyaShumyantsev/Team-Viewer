@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="PCV_client.PCV_client" android:versionCode="1" android:versionName="1.0" android:installLocation="auto">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="19" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+  <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" />
+  <application android:allowBackup="true" android:label="@string/app_name" android:icon="@drawable/icon" android:name="android.app.Application">
+    <activity android:icon="@drawable/icon" android:label="PC Viewer" android:screenOrientation="userLandscape" android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" android:name="md5e43e6dc808d709be88228b2011978c59.ContentPage" />
+    <activity android:icon="@drawable/icon" android:label="PC Viewer" android:theme="@android:style/Theme.Black.NoTitleBar" android:name="md5e43e6dc808d709be88228b2011978c59.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="PCV_client.PCV_client.mono.MonoRuntimeProvider.__mono_init__" />
+  </application>
+</manifest>

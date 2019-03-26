@@ -1,0 +1,45 @@
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\bin\Release\PCV_client.dll
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\bin\Release\PCV_client.pdb
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\bin\Release\PCV_client.PCV_client.apk
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\bin\Release\PCV_client.PCV_client-Signed.apk
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\obj\Release\PCV_client.csprojResolveAssemblyReference.cache
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\obj\Release\PCV_client.csproj.CoreCompileInputs.cache
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\obj\Release\PCV_client.dll
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\obj\Release\PCV_client.pdb
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\obj\Release\android\bin\PCV_client.PCV_client.apk
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\obj\Release\res\layout\contentpage.xml
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\obj\Release\res\layout\main.xml
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\obj\Release\res\values\strings.xml
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\obj\Release\res\drawable\noconnection.png
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\obj\Release\res\drawable\pcviewer.png
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\obj\Release\res\drawable\readytoconnect.png
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\obj\Release\res\values\theme.xml
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\obj\Release\res\drawable\icon.png
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\obj\Release\res\drawable\error.png
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\obj\Release\res\drawable\cursor.png
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\obj\Release\R.cs.flag
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(android)\PCV_client\obj\Release\uploadflags.txt
+bin\Release\PCV_client.PCV_client.apk.mSYM\System.ServiceModel.Internals.dll.msym
+bin\Release\PCV_client.PCV_client.apk.mSYM\System.ComponentModel.Composition.dll.msym
+bin\Release\PCV_client.PCV_client.apk.mSYM\System.Core.dll.msym
+bin\Release\PCV_client.PCV_client.apk.mSYM\Mono.Android.dll.msym
+bin\Release\PCV_client.PCV_client.apk.mSYM\System.Runtime.Serialization.dll.msym
+bin\Release\PCV_client.PCV_client.apk.mSYM\System.Net.Http.dll.msym
+bin\Release\PCV_client.PCV_client.apk.mSYM\PCV_client.dll.msym
+bin\Release\PCV_client.PCV_client.apk.mSYM\Java.Interop.dll.msym
+bin\Release\PCV_client.PCV_client.apk.mSYM\mscorlib.dll.msym
+bin\Release\PCV_client.PCV_client.apk.mSYM\System.Xml.dll.msym
+bin\Release\PCV_client.PCV_client.apk.mSYM\System.dll.msym
+bin\Release\PCV_client.PCV_client.apk.mSYM\Mono.Security.dll.msym
+bin\Release\PCV_client.PCV_client.apk.mSYM\37f43f23d4573b1ed1fc2b49bf2c4c56\System.ServiceModel.Internals.dll.msym
+bin\Release\PCV_client.PCV_client.apk.mSYM\40b999854d9d83d45a48f8fd658fb785\System.ComponentModel.Composition.dll.msym
+bin\Release\PCV_client.PCV_client.apk.mSYM\43cfac1e6750f22a103f7ca69bf1b1fd\System.Core.dll.msym
+bin\Release\PCV_client.PCV_client.apk.mSYM\465b81bde47905b3b3dada71c9bf9c4f\Mono.Android.dll.msym
+bin\Release\PCV_client.PCV_client.apk.mSYM\7c5c86f69707213288c575d752dca0ff\System.Runtime.Serialization.dll.msym
+bin\Release\PCV_client.PCV_client.apk.mSYM\8da27403f163dbff0802aad0148e8d3c\System.Net.Http.dll.msym
+bin\Release\PCV_client.PCV_client.apk.mSYM\974ac95f09a5e5842a315ead680fd996\PCV_client.dll.msym
+bin\Release\PCV_client.PCV_client.apk.mSYM\98bbcce9dee92520f06530d6034d09c5\Java.Interop.dll.msym
+bin\Release\PCV_client.PCV_client.apk.mSYM\cc9c4252060407bfde28f2c7ebaf324c\mscorlib.dll.msym
+bin\Release\PCV_client.PCV_client.apk.mSYM\d09013398bf12534de042546cc63ae12\System.Xml.dll.msym
+bin\Release\PCV_client.PCV_client.apk.mSYM\e3e979c0be46dfa772f1271c3f7faf72\System.dll.msym
+bin\Release\PCV_client.PCV_client.apk.mSYM\e76f423593fa791fb18b3300cbd682bb\Mono.Security.dll.msym

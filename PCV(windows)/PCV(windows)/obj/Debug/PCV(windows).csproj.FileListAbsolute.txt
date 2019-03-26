@@ -1,0 +1,30 @@
+C:\Users\ilyas\Desktop\PCV(windows)\PCV(windows)\obj\Debug\PCV(windows).csprojResolveAssemblyReference.cache
+C:\Users\ilyas\Desktop\PCV(windows)\PCV(windows)\obj\Debug\MainWindow.g.cs
+C:\Users\ilyas\Desktop\PCV(windows)\PCV(windows)\obj\Debug\App.g.cs
+C:\Users\ilyas\Desktop\PCV(windows)\PCV(windows)\obj\Debug\PCV(windows)_MarkupCompile.cache
+C:\Users\ilyas\Desktop\PCV(windows)\PCV(windows)\obj\Debug\PCV(windows)_MarkupCompile.lref
+C:\Users\ilyas\Desktop\PCV(windows)\PCV(windows)\bin\Debug\PCV(windows).exe.config
+C:\Users\ilyas\Desktop\PCV(windows)\PCV(windows)\bin\Debug\PCV(windows).exe
+C:\Users\ilyas\Desktop\PCV(windows)\PCV(windows)\bin\Debug\PCV(windows).pdb
+C:\Users\ilyas\Desktop\PCV(windows)\PCV(windows)\obj\Debug\MainWindow.baml
+C:\Users\ilyas\Desktop\PCV(windows)\PCV(windows)\obj\Debug\PCV(windows).g.resources
+C:\Users\ilyas\Desktop\PCV(windows)\PCV(windows)\obj\Debug\PCV_windows_.Properties.Resources.resources
+C:\Users\ilyas\Desktop\PCV(windows)\PCV(windows)\obj\Debug\PCV(windows).csproj.GenerateResource.Cache
+C:\Users\ilyas\Desktop\PCV(windows)\PCV(windows)\obj\Debug\PCV(windows).csproj.CoreCompileInputs.cache
+C:\Users\ilyas\Desktop\PCV(windows)\PCV(windows)\obj\Debug\PCV(windows).exe
+C:\Users\ilyas\Desktop\PCV(windows)\PCV(windows)\obj\Debug\PCV(windows).pdb
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(windows)\PCV(windows)\bin\Debug\PCV(windows).exe.config
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(windows)\PCV(windows)\bin\Debug\PCV(windows).exe
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(windows)\PCV(windows)\bin\Debug\PCV(windows).pdb
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(windows)\PCV(windows)\obj\Debug\PCV(windows).csprojResolveAssemblyReference.cache
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(windows)\PCV(windows)\obj\Debug\MainWindow.g.cs
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(windows)\PCV(windows)\obj\Debug\App.g.cs
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(windows)\PCV(windows)\obj\Debug\PCV(windows)_MarkupCompile.cache
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(windows)\PCV(windows)\obj\Debug\PCV(windows)_MarkupCompile.lref
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(windows)\PCV(windows)\obj\Debug\MainWindow.baml
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(windows)\PCV(windows)\obj\Debug\PCV(windows).g.resources
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(windows)\PCV(windows)\obj\Debug\PCV_windows_.Properties.Resources.resources
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(windows)\PCV(windows)\obj\Debug\PCV(windows).csproj.GenerateResource.Cache
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(windows)\PCV(windows)\obj\Debug\PCV(windows).csproj.CoreCompileInputs.cache
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(windows)\PCV(windows)\obj\Debug\PCV(windows).exe
+D:\Files and programs\My programs\3 course\OSISP\Viewer\PCV(windows)\PCV(windows)\obj\Debug\PCV(windows).pdb

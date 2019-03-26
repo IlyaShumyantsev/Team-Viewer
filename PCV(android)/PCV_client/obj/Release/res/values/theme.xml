@@ -1,0 +1,1 @@
+<resources><color name="theme_black_notitlebar_fullscreen_background">#0c80de</color><style name="Theme.Custom" parent="@android:style/Theme.Black.NoTitleBar"><item name="android:colorBackground">@color/theme_black_notitlebar_fullscreen_background</item><item name="android:windowBackground">?android:attr/colorBackground</item></style></resources>

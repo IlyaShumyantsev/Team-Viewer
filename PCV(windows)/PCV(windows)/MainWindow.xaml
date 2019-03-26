@@ -1,0 +1,55 @@
+﻿<Window x:Class="PCV_windows_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PCV_windows_"
+        mc:Ignorable="d"
+        Title="PC Viewer" Height="587" Width="400" ResizeMode="CanMinimize" Closed="CloseForm">
+    <Grid Background="{DynamicResource {x:Static SystemColors.MenuHighlightBrushKey}}" Margin="0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="197*"/>
+            <ColumnDefinition Width="70*"/>
+            <ColumnDefinition Width="127*"/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Rectangle Fill="#FFD1D1D6" HorizontalAlignment="Left" Height="182" Margin="0,140,0,0" Stroke="{DynamicResource {x:Static SystemColors.InactiveBorderBrushKey}}" VerticalAlignment="Top" Width="394" Grid.ColumnSpan="3"/>
+        <Image Margin="10,10,10,448" Source="img/pcviewer.png" Stretch="Fill" Grid.ColumnSpan="3"/>
+        <TextBlock  Name="address" Margin="0,165,25,0" TextWrapping="Wrap" Text="some address" VerticalAlignment="Top" Height="56" RenderTransformOrigin="0.5,0.5" Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}" FontSize="36" Foreground="#FF2078B6" TextAlignment="Center" FontFamily="Yu Gothic UI Semibold" TextDecorations="{x:Null}" FontWeight="Bold" Grid.ColumnSpan="3" HorizontalAlignment="Right" Width="261">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <Rectangle Fill="#FFD1D1D6" Height="68" Margin="0,441,0,0" Stroke="{DynamicResource {x:Static SystemColors.InactiveBorderBrushKey}}" VerticalAlignment="Top" OpacityMask="{DynamicResource {x:Static SystemColors.ActiveCaptionBrushKey}}" Grid.ColumnSpan="3"></Rectangle>
+        <Button Content="Cancel" Name="CancelButton" ToolTip="Press to stop host" Margin="13,451,39,0" VerticalAlignment="Top" Height="43" Grid.Column="1" Click="CancelButton_Click" BorderBrush="{x:Null}" FontFamily="Open Sans" FontSize="24" Foreground="White" Grid.ColumnSpan="2" Background="#FFE8456A" OpacityMask="#FF74FF00">
+        </Button>
+        <Button Content="Start" Name="StartButton" ToolTip="Press to start host" Margin="39,451,13,0" VerticalAlignment="Top" Height="43" Click="StartButton_Click" BorderBrush="{DynamicResource {x:Static SystemColors.ControlBrushKey}}" FontFamily="Open Sans" FontSize="24" Background="#FF74CD4B" Foreground="#FFF4F7FC" OpacityMask="#FF00FF0C"/>
+        <TextBlock  x:Name="port" Margin="0,245,25,0" TextWrapping="Wrap" Text="some port" VerticalAlignment="Top" Height="56" RenderTransformOrigin="0.5,0.5" Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}" FontSize="36" Foreground="#FF2078B6" TextAlignment="Center" FontFamily="Yu Gothic UI Semibold" TextDecorations="{x:Null}" FontWeight="Bold" Grid.ColumnSpan="3" HorizontalAlignment="Right" Width="261">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <Rectangle Grid.ColumnSpan="3" Fill="{DynamicResource {x:Static SystemColors.MenuHighlightBrushKey}}" Height="46" Margin="0,322,0,0" Stroke="{DynamicResource {x:Static SystemColors.InactiveBorderBrushKey}}" VerticalAlignment="Top"/>
+        <Image Grid.ColumnSpan="3" Height="41" Margin="42,327,42,0" VerticalAlignment="Top" Source="img/TypeOfConnection.png"/>
+        <Rectangle Grid.ColumnSpan="3" Fill="{DynamicResource {x:Static SystemColors.MenuHighlightBrushKey}}" Height="73" Margin="0,368,0,0" Stroke="{DynamicResource {x:Static SystemColors.InactiveBorderBrushKey}}" VerticalAlignment="Top"/>
+        <Image Name="TypeCon" Grid.ColumnSpan="3" Height="59" Margin="42,382,42,0" VerticalAlignment="Top" Source="img/wi-fi-or-internet-con.png"/>
+        <Rectangle Fill="{DynamicResource {x:Static SystemColors.MenuHighlightBrushKey}}" Margin="27,165,0,0" Stroke="{DynamicResource {x:Static SystemColors.InactiveBorderBrushKey}}" Height="56" VerticalAlignment="Top" HorizontalAlignment="Left" Width="73"/>
+        <Rectangle Fill="{DynamicResource {x:Static SystemColors.MenuHighlightBrushKey}}" HorizontalAlignment="Left" Height="56" Margin="27,245,0,0" Stroke="{DynamicResource {x:Static SystemColors.InactiveBorderBrushKey}}" VerticalAlignment="Top" Width="73"/>
+        <Image HorizontalAlignment="Left" Margin="34,245,0,0" Width="65" Height="56" VerticalAlignment="Top" Source="img/portPic.png"/>
+        <Image HorizontalAlignment="Left" Height="45" Margin="40,170,0,0" VerticalAlignment="Top" Width="60" Source="img/ipPic.png"/>
+        <Image HorizontalAlignment="Left" Name="isOn" Height="34" Margin="10,514,0,0" VerticalAlignment="Top" Width="384" Grid.ColumnSpan="3" Source="img/status-off.png"/>
+
+    </Grid>
+</Window>
